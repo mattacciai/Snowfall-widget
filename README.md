@@ -9,6 +9,6 @@ Creates a snowing particle effect on the desktop.
 * For the [Übersicht](http://tracesof.net/uebersicht/) app.
 
 ## How to customize the particles
-Open 'app.jsl', within this file variables such as the amount of particles, their shapes, direction, line linked and, color ect. can all be changed. The default for all of these variables creates the snowfall effect.
+Open `app.jsl`, within this file variables such as the amount of particles, their shapes, direction, line linked and, color ect. can all be changed. The default for all of these variables creates the snowfall effect.
 
 ![gif](snowfall-gif.gif "snowfall preview")
