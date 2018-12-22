@@ -1,6 +1,6 @@
 {
-    "name": "Snowfall"
-    "description": "Creates a snowing effect. However this effect can be customized to be just about anything as it uses the particle.js library"
-    "author": "Matt Acciai"
+    "name": "Snowfall",
+    "description": "Creates a snowing effect. However this effect can be customized to be just about anything as it uses the particle.js library",
+    "author": "Matt Acciai",
     "email": "matt@acciai.us"
 }
