@@ -1,7 +1,7 @@
 # Snowfall-widget
 Creates a snowing particle effect on the desktop.
 
-![Screenshot](https://i.imgur.com/rDwSCbM.png)
+![Screenshot](snowfall-screenshot.png)
 
 ## Description
 * This widget adds a particle effect to the desktop.
